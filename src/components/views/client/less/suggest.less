@@ -1,0 +1,74 @@
+
+
+*{
+  box-sizing: border-box;
+}
+
+.container{
+  padding: 20px;
+  background: #ffffff;
+}
+
+.filtrate{
+  padding: 20px;
+  background: #ecf4fa;
+  border-bottom: 1px solid #00a2ff;
+  .filtrate-search{
+    display: inline-block;
+    margin-bottom: 20px;
+    margin-right: 30px;
+    font-size: 14px;
+    span{
+      display: inline-block;
+      width: 90px;
+      text-align-last: justify;
+      color: #333333;
+    }
+    /deep/ button{
+      padding: 0px;
+      width: 100px;
+      height: 36px;
+      margin-right: 20px;
+    }
+  }
+}
+
+.suggest-btn{
+  margin-top: 20px;
+  padding-left: 10px;
+  /deep/ button{
+    padding: 0px;
+    width: 104px;
+    height: 24px;
+    border: 1px solid #00a2ff;
+    span{
+      color: #00a2ff;
+    }
+  }
+}
+
+.table-list{
+  margin-top: 20px;
+  /deep/ .has-gutter{
+    tr{
+      background: #e1e1e1;
+    }
+    .cell{
+      color: #333333;
+      font-weight: 600;
+    }
+  }
+  /deep/ .cell{
+    text-align: center;
+  }
+
+  .operation{
+    color: #00a2ff;
+    cursor: pointer;
+  }
+}
+
+.page{
+  margin-top: 30px;
+  text-align: right;
+}

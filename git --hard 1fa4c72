@@ -1,0 +1,31 @@
+[33mfff06f8[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{0}: reset: moving to HEAD
+[33mfff06f8[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{1}: reset: moving to HEAD
+[33mfff06f8[m[33m ([m[1;36mHEAD -> [m[1;32mdev[m[33m)[m HEAD@{2}: merge origin/dev: Fast-forward
+[33m33c1c06[m HEAD@{3}: reset: moving to HEAD
+[33m33c1c06[m HEAD@{4}: merge origin/dev: Fast-forward
+[33m1d80979[m HEAD@{5}: reset: moving to HEAD
+[33m1d80979[m HEAD@{6}: merge origin/dev: Fast-forward
+[33m0a2c690[m HEAD@{7}: reset: moving to HEAD
+[33m0a2c690[m HEAD@{8}: commit: 品牌管理
+[33m1fa4c72[m HEAD@{9}: merge origin/dev: Fast-forward
+[33m09786c9[m HEAD@{10}: reset: moving to HEAD
+[33m09786c9[m HEAD@{11}: commit: 品牌管理
+[33m7ea48c5[m HEAD@{12}: merge origin/dev: Merge made by the 'recursive' strategy.
+[33meafa66d[m HEAD@{13}: reset: moving to HEAD
+[33meafa66d[m HEAD@{14}: commit: 品牌管理
+[33maa2eb1a[m HEAD@{15}: commit: 交易管理
+[33m414053e[m HEAD@{16}: merge origin/dev: Fast-forward
+[33mfd53109[m HEAD@{17}: reset: moving to HEAD
+[33mfd53109[m HEAD@{18}: merge origin/dev: Fast-forward
+[33m9e6f1a9[m HEAD@{19}: commit: 交易管理
+[33m6e03e66[m HEAD@{20}: merge origin/dev: Fast-forward
+[33m0ac2909[m HEAD@{21}: reset: moving to HEAD
+[33m0ac2909[m HEAD@{22}: commit: 交易管理
+[33mba8ba87[m HEAD@{23}: merge origin/dev: Fast-forward
+[33mc3edb87[m HEAD@{24}: reset: moving to HEAD
+[33mc3edb87[m HEAD@{25}: merge origin/dev: Fast-forward
+[33mb2ca81a[m HEAD@{26}: commit: 证照资质
+[33m77572f0[m HEAD@{27}: merge origin/dev: Fast-forward
+[33m1419945[m HEAD@{28}: reset: moving to HEAD
+[33m1419945[m HEAD@{29}: checkout: moving from master to dev
+[33m1e2721c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmaster[m[33m)[m HEAD@{30}: clone: from http://192.168.0.49/FrontEnd/mj-shop-web.git
